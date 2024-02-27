@@ -1,0 +1,10 @@
+1. Given the list `numbers = [1,  2,  3,  4,  5]`, use `reduce` to find the product of all numbers. The expected output is `120`.
+2. For the list `squares = [1,  4,  9,  16,  25]`, use `reduce` to find the sum of all squares. The expected output is `70`.
+3. Given the list `words = ['apple', 'banana', 'cherry']`, use `reduce` to concatenate all words into a single string. The expected output is `'applebananacherry'`.
+4. For the list `ages = [25,  30,  35,  40]`, use `reduce` to find the maximum age. The expected output is `40`.
+5. Given the list `temperatures = [0,  10,  20,  30]`, use `reduce` to find the minimum temperature. The expected output is `0`.
+6. For the list `names = ['Alice', 'Bob', 'Charlie']`, use `reduce` to create a single string that contains all names separated by commas. The expected output is `'Alice, Bob, Charlie'`.
+7. Given the list `numbers = [1,  2,  3,  4,  5]`, use `reduce` to find the difference between the maximum and minimum number. The expected output is `4`.
+8. For the list `words = ['hello', 'world']`, use `reduce` to create a single string that contains the first letter of each word. The expected output is `'hwo'`.
+9. Given the list `squares = [1,  4,  9,  16,  25]`, use `reduce` to find the greatest common divisor (GCD) of all numbers. The expected output is `1`.
+10. For the list `ages = [25,  30,  35,  40]`, use `reduce` to find the least common multiple (LCM) of all numbers. The expected output is `60`.
